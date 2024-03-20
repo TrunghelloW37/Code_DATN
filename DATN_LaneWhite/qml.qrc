@@ -1,0 +1,79 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>asset/icon/light/bxs_music.svg</file>
+        <file>asset/icon/light/Car_Icon.svg</file>
+        <file>asset/icon/light/car_Tesla_Model.png</file>
+        <file>asset/icon/light/clarity_settings-solid.svg</file>
+        <file>asset/icon/light/dslr-camera (1).png</file>
+        <file>asset/icon/light/entypo_home.svg</file>
+        <file>asset/icon/light/ep_menu.svg</file>
+        <file>asset/icon/light/eva_phone-call-fill.svg</file>
+        <file>asset/icon/light/light.txt</file>
+        <file>asset/icon/light/location.png</file>
+        <file>asset/icon/add.png</file>
+        <file>asset/icon/Background.png</file>
+        <file>asset/icon/Base.svg</file>
+        <file>asset/icon/bxs_music.svg</file>
+        <file>asset/icon/car.png</file>
+        <file>asset/icon/Car.svg</file>
+        <file>asset/icon/Car_icon.svg</file>
+        <file>asset/icon/clarity_settings-solid.svg</file>
+        <file>asset/icon/dslr-camera.png</file>
+        <file>asset/icon/entypo_home.svg</file>
+        <file>asset/icon/ep_menu.svg</file>
+        <file>asset/icon/eva_phone-call-fill.svg</file>
+        <file>asset/icon/Headlights.svg</file>
+        <file>asset/icon/icons.txt</file>
+        <file>asset/icon/location_finished.png</file>
+        <file>asset/icon/location_start.png</file>
+        <file>asset/icon/minus.png</file>
+        <file>asset/icon/Navigation.png</file>
+        <file>asset/icon/Navigation.svg</file>
+        <file>asset/icon/Top Navigation.svg</file>
+        <file>asset/icon/Vector 1.svg</file>
+        <file>asset/icon/Vector 2.svg</file>
+        <file>asset/icon/Vector.svg</file>
+        <file>asset/ICON_Tesla_Model/car-battery.png</file>
+        <file>asset/ICON_Tesla_Model/car.png</file>
+        <file>asset/ICON_Tesla_Model/delete.png</file>
+        <file>asset/ICON_Tesla_Model/gas-pump.png</file>
+        <file>asset/ICON_Tesla_Model/maps-and-flags.png</file>
+        <file>asset/ICON_Tesla_Model/smartphone-call.png</file>
+        <file>asset/ICON_Tesla_Model/steering-wheel.png</file>
+        <file>asset/ICON_Tesla_Model/x-mark_green.png</file>
+        <file>asset/ICON_Tesla_Model/x-mark_white.png</file>
+        <file>asset/images/img/background.png</file>
+        <file>asset/images/img/background.svg</file>
+        <file>asset/images/img/cirlcle.svg</file>
+        <file>asset/images/img/Ellipse 1.svg</file>
+        <file>asset/images/img/Ellipse 5.svg</file>
+        <file>asset/images/img/Ellipse 6.svg</file>
+        <file>asset/images/img/img.txt</file>
+        <file>asset/images/img/maxLimit.svg</file>
+        <file>asset/images/img/Model 3.png</file>
+        <file>asset/images/img/needle.svg</file>
+        <file>asset/images/img/Rectangle 4.svg</file>
+        <file>asset/images/img/ring.svg</file>
+        <file>asset/images/img/sub.svg</file>
+        <file>asset/images/img/Subtract.svg</file>
+        <file>asset/images/img/tickmark.svg</file>
+        <file>asset/images/Down_Arrow_Green.png</file>
+        <file>asset/images/Down_Arrow_White.png</file>
+        <file>asset/images/stop.png</file>
+        <file>asset/images/stop_gray.png</file>
+        <file>asset/images/stop_gray_32.png</file>
+        <file>asset/images/stop_red.png</file>
+        <file>asset/images/stop_white.png</file>
+        <file>ui/Display_ControlCar.qml</file>
+        <file>ui/Display_Traffic_Stop.qml</file>
+        <file>ui/My_TextField.qml</file>
+        <file>ui/Zoom_Map.qml</file>
+        <file>Camera_Open.qml</file>
+        <file>DashBoard.qml</file>
+        <file>Map_Location.qml</file>
+        <file>TopNavigation.qml</file>
+        <file>SideGauge.qml</file>
+        <file>asset/images/stop_128x128.png</file>
+    </qresource>
+</RCC>
